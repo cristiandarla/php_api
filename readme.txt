@@ -1,5 +1,5 @@
 This is my submission for the backend internship.
-The api is creating for an mySQL db using PDO so it can be easily modified just by modifying the DB specifier.
+The api is creating for a mySQL DB using PDO so it can be easily modified just by modifying the DB specifier.
 I also added 2 sample tables to use.
 
 Task 1 and 2 are succesfully done (at least I think so).
